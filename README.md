@@ -9,7 +9,7 @@ DevOps practices.
 
 
 ### Connect with me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chendoie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liviamrb) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chendoie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liviamrbarbosa) 
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=livmrb&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br/>
