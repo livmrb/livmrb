@@ -1,7 +1,17 @@
-## Prazer, me chamo Lívia Barbosa!
+## Hey there, I'm Lívia Barbosa!
 
-<div>
-<a href="https://github.com/livmrb">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livmrb&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=livmrb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+I'm currently a Computer Science student, just diving <br>
+into my second semester. <br> <br>
+My absolute passion is Cloud Computing and eveything <br>
+related to it. I'm actively studying to deepen my <br>
+knowledge in the fild, with a strong focus on DevOps<br>
+practices.
+
+
+### Connect with me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chendoie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/livmrb) 
+
+### GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=livmrb&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=livmrb&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
