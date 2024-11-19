@@ -4,8 +4,8 @@ I'm currently a Computer Science student, just diving <br>
 into my second semester. <br> <br>
 My absolute passion is Cloud Computing and eveything <br>
 related to it. I'm actively studying to deepen my <br>
-knowledge in the fild, with a strong focus on DevOps<br>
-practices.
+knowledge in the fild, with a strong focus on <br>
+DevOps practices.
 
 
 ### Connect with me
