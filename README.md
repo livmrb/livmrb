@@ -1,7 +1,7 @@
 ## Hey there, I'm Lívia Barbosa!
 
 I'm currently a Computer Science student, just diving <br>
-into my third semester. <br> <br>
+into my second year. <br> <br>
 My absolute passion is Cloud Computing and eveything <br>
 related to it. I'm actively studying to deepen my <br>
 knowledge in the fild, with a strong focus on <br>
