@@ -1,7 +1,7 @@
 <img align="right" alt="created by Treasure.lol SMOL - www.giphy.com" height="230" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJmMTM0NXBqbnc1NjA3czdkOWRvN2llMDB1Z2liaXM0NHo1cDZhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
 <h1>
-     <img align="center" alt="Kuromi" width="36px" src="https://i.pinimg.com/736x/54/5b/94/545b9434b930e4cd886a1a4d47cf6044.jpg">
+     <img align="center" alt="Kuromi" width="26px" src="https://imgur.com/Fx3d2MC.png">  
     <span> Hey there, I'm Lívia Barbosa! </span>
 </h1>
 <p align="justify"> 
