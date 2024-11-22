@@ -1,6 +1,6 @@
 ## Hey there, I'm Lívia Barbosa!
 
-<img align="right" alt="created by Treasure.lol SMOL - www.giphy.com" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJmMTM0NXBqbnc1NjA3czdkOWRvN2llMDB1Z2liaXM0NHo1cDZhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
+<img align="right" alt="created by Treasure.lol SMOL - www.giphy.com" height="230" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJmMTM0NXBqbnc1NjA3czdkOWRvN2llMDB1Z2liaXM0NHo1cDZhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
 
 <p align="justify"> 
