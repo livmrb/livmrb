@@ -1,9 +1,7 @@
 <h1>
-     <img align="center" alt="Kuromi" width="26px" src="">  
+     <img align="center" alt="Tiny My Melody" width="26px" src="https://imgur.com/Fx3d2MC.png">  
      <span> Hey there, I'm Lívia Barbosa! </span>
 </h1>
-
-<img align="right" alt="Gif" height="198" src="https://i.pinimg.com/originals/08/a8/3b/08a83bca77fa046b6525086ad3a84fe9.gif">
 
 <p align="justify"> 
 I'm currently a Computer Science student, just diving
