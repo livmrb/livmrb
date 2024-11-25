@@ -1,5 +1,5 @@
 <h1>
-     <img align="center" alt="Kuromi" width="26px" src="https://imgur.com/Fx3d2MC.png">  
+     <img align="center" alt="Kuromi" width="26px" src="">  
      <span> Hey there, I'm Lívia Barbosa! </span>
 </h1>
 
