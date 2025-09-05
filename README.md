@@ -1,15 +1,10 @@
-<h1>
-     <img align="center" alt="Tiny My Melody" width="26px" src="https://imgur.com/Fx3d2MC.png">  
-     <span> Hey there, I'm Lívia Barbosa! </span>
-</h1>
-
 <p align="justify"> 
-I'm currently a Computer Science student, just diving
-into my second year. <br> <br>
-My absolute passion is Cloud Computing and eveything
-related to it.  <br> 
-I'm actively studying to deepen my knowledge in the fild, with a strong  <br>
-focus on DevOps practices.
+Lívia Barbosa. <br> <br>
+19-year-old Computer Science student. <br> <br>
+I am seeking opportunities that allow me to <br>
+continuously learn, work on meaningful <br>
+projects, and grow in the technology field. :) <br> 
+
 </p>
 
 ### Connect with me ⋆˙𖹭
