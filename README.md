@@ -8,9 +8,8 @@ projects, and grow in the technology field. :) <br>
 </p>
 
 ### Connect with me ⋆˙𖹭
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&color=f35dbb)](https://discord.gg/chendoie) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=f35dbb)](https://linkedin.com/in/liviamrb/) 
-<a href="https://www.linkedin.com/in/mariocbneto/"> <img alt="amor" src="https://custom-icon-badges.demolab.com/badge/Heart-D15E9B.svg?logo=heart"/> </a> 
+<a href="https://www.linkedin.com/in/mariocbneto/"> <img alt="amor" src="https://custom-icon-badges.demolab.com/badge/Heart-f35dbb.svg?logo=heart"/> </a> 
 
 ### GitHub Stats ⭒⭒⭒
 ![](https://github-readme-stats.vercel.app/api?username=livmrb&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
