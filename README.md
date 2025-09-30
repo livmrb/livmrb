@@ -1,6 +1,6 @@
 <p align="justify"> 
 Lívia Barbosa. <br> <br>
-19-year-old Computer Science student. <br> <br>
+20-year-old Computer Science student. <br> <br>
 I am seeking opportunities that allow me to <br>
 continuously learn, work on meaningful <br>
 projects, and grow in the technology field. :) <br> 
